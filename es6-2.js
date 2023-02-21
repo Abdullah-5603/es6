@@ -70,15 +70,17 @@
 // console.log(result)
 
 // method-2
-const people = [
-    {name: 'Menna', age: 20},
-    {name: 'Rina', age: 15},
-    {name: 'Suchorita', age: 22}
-];
+// const people = [
+//     {name: 'Menna', age: 20},
+//     {name: 'Rina', age: 15},
+//     {name: 'Suchorita', age: 22}
+// ];
 
-const ageSum = people.reduce((total, person) => {
-    return total + person.age;
-}, 0);
+// const ageSum = people.reduce((total, person) => {
+//     return total + person.age;
+// }, 0);
 
-console.log(ageSum);
+// console.log(ageSum);
+
+
 
